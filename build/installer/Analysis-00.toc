@@ -36,47 +36,111 @@
    'C:\\Users\\Srijeel '
    'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\cblang.py',
    'DATA')],
- '3.14.7 (tags/v3.14.7:823f032, Aug  5 2026, 10:51:32) [MSC v.1944 64 bit '
+ '3.14.8 (tags/v3.14.8:8e6e75d, Sep 30 2026, 18:19:33) [MSC v.1944 64 bit '
  '(AMD64)]',
  [('pyi_rth_inspect',
    'C:\\Users\\Srijeel '
    'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
    'PYSOURCE'),
-  ('pyi_rth__tkinter',
+  ('pyi_rth_pyqt6',
    'C:\\Users\\Srijeel '
-   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth__tkinter.py',
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pyqt6.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
    'PYSOURCE'),
   ('installer',
    'C:\\Users\\Srijeel '
    'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\installer.py',
    'PYSOURCE')],
- [('zipfile',
+ [('pkgutil',
    'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\zipfile\\__init__.py',
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\pkgutil.py',
    'PYMODULE'),
-  ('zipfile._path',
+  ('zipimport',
    'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\zipfile\\_path\\__init__.py',
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\zipimport.py',
    'PYMODULE'),
-  ('zipfile._path.glob',
+  ('struct',
    'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\zipfile\\_path\\glob.py',
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\struct.py',
    'PYMODULE'),
-  ('pathlib',
+  ('importlib.readers',
    'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\pathlib\\__init__.py',
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\importlib\\readers.py',
    'PYMODULE'),
-  ('urllib.error',
+  ('importlib.resources.readers',
    'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\urllib\\error.py',
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\importlib\\resources\\readers.py',
    'PYMODULE'),
-  ('urllib',
+  ('importlib.resources._itertools',
    'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\urllib\\__init__.py',
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\importlib\\resources\\_itertools.py',
    'PYMODULE'),
-  ('urllib.response',
+  ('importlib.resources.abc',
    'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\urllib\\response.py',
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\importlib\\resources\\abc.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\typing.py',
+   'PYMODULE'),
+  ('annotationlib',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\annotationlib.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\ast.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\argparse.py',
+   'PYMODULE'),
+  ('difflib',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\difflib.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\textwrap.py',
+   'PYMODULE'),
+  ('_colorize',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\_colorize.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\dataclasses.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\copy.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\gettext.py',
+   'PYMODULE'),
+  ('_ast_unparse',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\_ast_unparse.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\importlib\\resources\\__init__.py',
+   'PYMODULE'),
+  ('importlib.resources._functional',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\importlib\\resources\\_functional.py',
+   'PYMODULE'),
+  ('importlib.resources._common',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\importlib\\resources\\_common.py',
+   'PYMODULE'),
+  ('importlib.resources._adapters',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\importlib\\resources\\_adapters.py',
    'PYMODULE'),
   ('tempfile',
    'C:\\Users\\Srijeel '
@@ -126,33 +190,17 @@
    'C:\\Users\\Srijeel '
    'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\pprint.py',
    'PYMODULE'),
-  ('dataclasses',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\dataclasses.py',
-   'PYMODULE'),
-  ('typing',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\typing.py',
-   'PYMODULE'),
-  ('annotationlib',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\annotationlib.py',
-   'PYMODULE'),
-  ('ast',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\ast.py',
-   'PYMODULE'),
-  ('_ast_unparse',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\_ast_unparse.py',
-   'PYMODULE'),
-  ('copy',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\copy.py',
-   'PYMODULE'),
   ('_compat_pickle',
    'C:\\Users\\Srijeel '
    'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\_threading_local.py',
    'PYMODULE'),
   ('string',
    'C:\\Users\\Srijeel '
@@ -162,213 +210,21 @@
    'C:\\Users\\Srijeel '
    'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\bisect.py',
    'PYMODULE'),
-  ('urllib.request',
+  ('zipfile',
    'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\urllib\\request.py',
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\zipfile\\__init__.py',
    'PYMODULE'),
-  ('ipaddress',
+  ('zipfile._path',
    'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\ipaddress.py',
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\zipfile\\_path\\__init__.py',
    'PYMODULE'),
-  ('fnmatch',
+  ('zipfile._path.glob',
    'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\fnmatch.py',
-   'PYMODULE'),
-  ('ftplib',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\ftplib.py',
-   'PYMODULE'),
-  ('netrc',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\netrc.py',
-   'PYMODULE'),
-  ('mimetypes',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\mimetypes.py',
-   'PYMODULE'),
-  ('email.utils',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\email\\utils.py',
-   'PYMODULE'),
-  ('email.charset',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\email\\charset.py',
-   'PYMODULE'),
-  ('email.encoders',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\email\\encoders.py',
-   'PYMODULE'),
-  ('quopri',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\quopri.py',
-   'PYMODULE'),
-  ('getopt',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\getopt.py',
-   'PYMODULE'),
-  ('gettext',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\gettext.py',
-   'PYMODULE'),
-  ('email.errors',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\email\\errors.py',
-   'PYMODULE'),
-  ('email.quoprimime',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\email\\quoprimime.py',
-   'PYMODULE'),
-  ('email.base64mime',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\email\\base64mime.py',
-   'PYMODULE'),
-  ('email._parseaddr',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\email\\_parseaddr.py',
-   'PYMODULE'),
-  ('calendar',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\calendar.py',
-   'PYMODULE'),
-  ('_colorize',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\_colorize.py',
-   'PYMODULE'),
-  ('datetime',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\datetime.py',
-   'PYMODULE'),
-  ('_pydatetime',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\_pydatetime.py',
-   'PYMODULE'),
-  ('_strptime',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\_strptime.py',
-   'PYMODULE'),
-  ('http.cookiejar',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\http\\cookiejar.py',
-   'PYMODULE'),
-  ('http',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\http\\__init__.py',
-   'PYMODULE'),
-  ('ssl',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\ssl.py',
-   'PYMODULE'),
-  ('socket',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\socket.py',
-   'PYMODULE'),
-  ('selectors',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\selectors.py',
-   'PYMODULE'),
-  ('http.client',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\http\\client.py',
-   'PYMODULE'),
-  ('email.message',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\email\\message.py',
-   'PYMODULE'),
-  ('email.policy',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\email\\policy.py',
-   'PYMODULE'),
-  ('email.contentmanager',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\email\\contentmanager.py',
-   'PYMODULE'),
-  ('email.headerregistry',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\email\\headerregistry.py',
-   'PYMODULE'),
-  ('email._header_value_parser',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\email\\_header_value_parser.py',
-   'PYMODULE'),
-  ('email.iterators',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\email\\iterators.py',
-   'PYMODULE'),
-  ('email.generator',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\email\\generator.py',
-   'PYMODULE'),
-  ('email._encoded_words',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\email\\_encoded_words.py',
-   'PYMODULE'),
-  ('email._policybase',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\email\\_policybase.py',
-   'PYMODULE'),
-  ('email.header',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\email\\header.py',
-   'PYMODULE'),
-  ('email.parser',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\email\\parser.py',
-   'PYMODULE'),
-  ('email.feedparser',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\email\\feedparser.py',
-   'PYMODULE'),
-  ('email',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\email\\__init__.py',
-   'PYMODULE'),
-  ('base64',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\base64.py',
-   'PYMODULE'),
-  ('urllib.parse',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\urllib\\parse.py',
-   'PYMODULE'),
-  ('pathlib._os',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\pathlib\\_os.py',
-   'PYMODULE'),
-  ('glob',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\glob.py',
-   'PYMODULE'),
-  ('contextlib',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\contextlib.py',
-   'PYMODULE'),
-  ('argparse',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\argparse.py',
-   'PYMODULE'),
-  ('difflib',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\difflib.py',
-   'PYMODULE'),
-  ('textwrap',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\textwrap.py',
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\zipfile\\_path\\glob.py',
    'PYMODULE'),
   ('py_compile',
    'C:\\Users\\Srijeel '
    'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\py_compile.py',
-   'PYMODULE'),
-  ('importlib.machinery',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\importlib\\machinery.py',
-   'PYMODULE'),
-  ('importlib',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\importlib\\__init__.py',
-   'PYMODULE'),
-  ('importlib._bootstrap',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\importlib\\_bootstrap.py',
    'PYMODULE'),
   ('importlib._bootstrap_external',
    'C:\\Users\\Srijeel '
@@ -390,6 +246,122 @@
    'C:\\Users\\Srijeel '
    'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\importlib\\metadata\\_text.py',
    'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\base64.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\getopt.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\email\\utils.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\socket.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\selectors.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\calendar.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\ipaddress.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\datetime.py',
+   'PYMODULE'),
+  ('_pydatetime',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\_pydatetime.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\_strptime.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\quopri.py',
+   'PYMODULE'),
   ('importlib.abc',
    'C:\\Users\\Srijeel '
    'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\importlib\\abc.py',
@@ -397,6 +369,10 @@
   ('importlib._abc',
    'C:\\Users\\Srijeel '
    'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\importlib\\_abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\importlib\\_bootstrap.py',
    'PYMODULE'),
   ('importlib.metadata._itertools',
    'C:\\Users\\Srijeel '
@@ -414,6 +390,18 @@
    'C:\\Users\\Srijeel '
    'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\importlib\\metadata\\_meta.py',
    'PYMODULE'),
+  ('email',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\email\\feedparser.py',
+   'PYMODULE'),
   ('json',
    'C:\\Users\\Srijeel '
    'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\json\\__init__.py',
@@ -429,42 +417,6 @@
   ('json.scanner',
    'C:\\Users\\Srijeel '
    'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\json\\scanner.py',
-   'PYMODULE'),
-  ('__future__',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\__future__.py',
-   'PYMODULE'),
-  ('importlib.readers',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\importlib\\readers.py',
-   'PYMODULE'),
-  ('importlib.resources.readers',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\importlib\\resources\\readers.py',
-   'PYMODULE'),
-  ('importlib.resources._itertools',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\importlib\\resources\\_itertools.py',
-   'PYMODULE'),
-  ('importlib.resources.abc',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\importlib\\resources\\abc.py',
-   'PYMODULE'),
-  ('importlib.resources',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\importlib\\resources\\__init__.py',
-   'PYMODULE'),
-  ('importlib.resources._functional',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\importlib\\resources\\_functional.py',
-   'PYMODULE'),
-  ('importlib.resources._common',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\importlib\\resources\\_common.py',
-   'PYMODULE'),
-  ('importlib.resources._adapters',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\importlib\\resources\\_adapters.py',
    'PYMODULE'),
   ('tokenize',
    'C:\\Users\\Srijeel '
@@ -502,21 +454,37 @@
    'C:\\Users\\Srijeel '
    'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\bz2.py',
    'PYMODULE'),
-  ('threading',
+  ('pathlib',
    'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\threading.py',
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\pathlib\\__init__.py',
    'PYMODULE'),
-  ('_threading_local',
+  ('urllib.error',
    'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\_threading_local.py',
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\urllib\\error.py',
    'PYMODULE'),
-  ('struct',
+  ('urllib.response',
    'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\struct.py',
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\urllib\\response.py',
    'PYMODULE'),
-  ('importlib.util',
+  ('pathlib._os',
    'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\importlib\\util.py',
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\pathlib\\_os.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\glob.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\fnmatch.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\contextlib.py',
+   'PYMODULE'),
+  ('__future__',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\__future__.py',
    'PYMODULE'),
   ('inspect',
    'C:\\Users\\Srijeel '
@@ -534,9 +502,25 @@
    'C:\\Users\\Srijeel '
    'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\_opcode_metadata.py',
    'PYMODULE'),
-  ('codeop',
+  ('importlib.machinery',
    'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\codeop.py',
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('_pyi_rth_utils.qt',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\qt.py',
+   'PYMODULE'),
+  ('_pyi_rth_utils',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\__init__.py',
    'PYMODULE'),
   ('stringprep',
    'C:\\Users\\Srijeel '
@@ -550,9 +534,49 @@
    'C:\\Users\\Srijeel '
    'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\tracemalloc.py',
    'PYMODULE'),
+  ('codeop',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\codeop.py',
+   'PYMODULE'),
   ('_py_abc',
    'C:\\Users\\Srijeel '
    'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\_py_abc.py',
+   'PYMODULE'),
+  ('PyQt6',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\__init__.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\netrc.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\mimetypes.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\ssl.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\http\\client.py',
    'PYMODULE'),
   ('ctypes',
    'C:\\Users\\Srijeel '
@@ -573,22 +597,6 @@
   ('_aix_support',
    'C:\\Users\\Srijeel '
    'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\_aix_support.py',
-   'PYMODULE'),
-  ('tkinter.messagebox',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\tkinter\\messagebox.py',
-   'PYMODULE'),
-  ('tkinter.commondialog',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\tkinter\\commondialog.py',
-   'PYMODULE'),
-  ('tkinter',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\tkinter\\__init__.py',
-   'PYMODULE'),
-  ('tkinter.constants',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\tkinter\\constants.py',
    'PYMODULE'),
   ('subprocess',
    'C:\\Users\\Srijeel '
@@ -614,6 +622,74 @@
    'C:\\Users\\Srijeel '
    'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\python314.dll',
    'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\iconengines\\qsvgicon.dll',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\plugins\\iconengines\\qsvgicon.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\imageformats\\qwbmp.dll',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qwbmp.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\imageformats\\qwebp.dll',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qwebp.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\platforms\\qwindows.dll',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\plugins\\platforms\\qwindows.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\platforms\\qoffscreen.dll',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\plugins\\platforms\\qoffscreen.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\imageformats\\qtiff.dll',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qtiff.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\imageformats\\qjpeg.dll',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qjpeg.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\platforms\\qminimal.dll',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\plugins\\platforms\\qminimal.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\imageformats\\qtga.dll',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qtga.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\imageformats\\qpdf.dll',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qpdf.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\imageformats\\qgif.dll',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qgif.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\imageformats\\qico.dll',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qico.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\imageformats\\qsvg.dll',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qsvg.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\generic\\qtuiotouchplugin.dll',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\plugins\\generic\\qtuiotouchplugin.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\imageformats\\qicns.dll',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qicns.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\bin\\opengl32sw.dll',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\bin\\opengl32sw.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\styles\\qmodernwindowsstyle.dll',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\plugins\\styles\\qmodernwindowsstyle.dll',
+   'BINARY'),
   ('_decimal.pyd',
    'C:\\Users\\Srijeel '
    'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_decimal.pyd',
@@ -621,10 +697,6 @@
   ('_hashlib.pyd',
    'C:\\Users\\Srijeel '
    'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_hashlib.pyd',
-   'EXTENSION'),
-  ('_ssl.pyd',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_ssl.pyd',
    'EXTENSION'),
   ('select.pyd',
    'C:\\Users\\Srijeel '
@@ -650,33 +722,45 @@
    'C:\\Users\\Srijeel '
    'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_bz2.pyd',
    'EXTENSION'),
+  ('PyQt6\\QtGui.pyd',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\QtGui.pyd',
+   'EXTENSION'),
+  ('PyQt6\\sip.cp314-win_amd64.pyd',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\sip.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('PyQt6\\QtCore.pyd',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\QtCore.pyd',
+   'EXTENSION'),
+  ('PyQt6\\QtWidgets.pyd',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\QtWidgets.pyd',
+   'EXTENSION'),
+  ('_ssl.pyd',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
   ('_ctypes.pyd',
    'C:\\Users\\Srijeel '
    'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_ctypes.pyd',
    'EXTENSION'),
-  ('_tkinter.pyd',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_tkinter.pyd',
-   'EXTENSION'),
-  ('VCRUNTIME140.dll',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\VCRUNTIME140.dll',
-   'BINARY'),
-  ('api-ms-win-crt-runtime-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-crt-runtime-l1-1-0.dll',
-   'BINARY'),
   ('api-ms-win-crt-locale-l1-1-0.dll',
    'C:\\Program '
    'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-crt-locale-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-crt-stdio-l1-1-0.dll',
+  ('api-ms-win-crt-conio-l1-1-0.dll',
    'C:\\Program '
-   'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-crt-stdio-l1-1-0.dll',
+   'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-crt-conio-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-crt-convert-l1-1-0.dll',
+  ('api-ms-win-crt-filesystem-l1-1-0.dll',
    'C:\\Program '
-   'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-crt-convert-l1-1-0.dll',
+   'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-crt-filesystem-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-string-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-crt-string-l1-1-0.dll',
    'BINARY'),
   ('api-ms-win-crt-environment-l1-1-0.dll',
    'C:\\Program '
@@ -686,33 +770,81 @@
    'C:\\Program '
    'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-crt-heap-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-crt-process-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-crt-process-l1-1-0.dll',
-   'BINARY'),
   ('api-ms-win-crt-math-l1-1-0.dll',
    'C:\\Program '
    'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-crt-math-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-crt-filesystem-l1-1-0.dll',
+  ('api-ms-win-crt-stdio-l1-1-0.dll',
    'C:\\Program '
-   'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-crt-filesystem-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-conio-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-crt-conio-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-string-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-crt-string-l1-1-0.dll',
+   'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-crt-stdio-l1-1-0.dll',
    'BINARY'),
   ('api-ms-win-crt-time-l1-1-0.dll',
    'C:\\Program '
    'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-crt-time-l1-1-0.dll',
    'BINARY'),
+  ('api-ms-win-crt-process-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-crt-process-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-runtime-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-crt-runtime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-convert-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-crt-convert-l1-1-0.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\bin\\Qt6Core.dll',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\bin\\Qt6Core.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\bin\\Qt6Gui.dll',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\bin\\Qt6Gui.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\bin\\Qt6Svg.dll',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\bin\\Qt6Svg.dll',
+   'BINARY'),
+  ('api-ms-win-crt-utility-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-crt-utility-l1-1-0.dll',
+   'BINARY'),
+  ('VCRUNTIME140_1.dll',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\bin\\MSVCP140.dll',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\bin\\MSVCP140.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\bin\\Qt6Pdf.dll',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\bin\\Qt6Pdf.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\bin\\Qt6Network.dll',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\bin\\Qt6Network.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\bin\\Qt6Widgets.dll',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\bin\\Qt6Widgets.dll',
+   'BINARY'),
   ('libcrypto-3.dll',
    'C:\\Users\\Srijeel '
    'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\libcrypto-3.dll',
+   'BINARY'),
+  ('python3.dll',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\python3.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\bin\\MSVCP140_2.dll',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\bin\\MSVCP140_2.dll',
    'BINARY'),
   ('libssl-3.dll',
    'C:\\Users\\Srijeel '
@@ -722,80 +854,104 @@
    'C:\\Users\\Srijeel '
    'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\libffi-8.dll',
    'BINARY'),
-  ('tcl90.dll',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\tcl90.dll',
-   'BINARY'),
-  ('tcl9tk90.dll',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\tcl9tk90.dll',
-   'BINARY'),
-  ('libtommath.dll',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\libtommath.dll',
-   'BINARY'),
   ('ucrtbase.dll',
    'C:\\Program Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\ucrtbase.dll',
    'BINARY'),
-  ('api-ms-win-crt-utility-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-crt-utility-l1-1-0.dll',
-   'BINARY'),
-  ('zlib1.dll',
+  ('PyQt6\\Qt6\\bin\\VCRUNTIME140_1.dll',
    'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\zlib1.dll',
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\bin\\VCRUNTIME140_1.dll',
    'BINARY'),
-  ('api-ms-win-crt-private-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-crt-private-l1-1-0.dll',
+  ('PyQt6\\Qt6\\bin\\VCRUNTIME140.dll',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\bin\\VCRUNTIME140.dll',
    'BINARY'),
-  ('api-ms-win-core-synch-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-core-synch-l1-1-0.dll',
+  ('PyQt6\\Qt6\\bin\\MSVCP140_1.dll',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\bin\\MSVCP140_1.dll',
    'BINARY'),
-  ('api-ms-win-core-handle-l1-1-0.dll',
+  ('api-ms-win-core-synch-l1-2-0.dll',
    'C:\\Program '
-   'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-core-handle-l1-1-0.dll',
+   'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-core-synch-l1-2-0.dll',
    'BINARY'),
-  ('api-ms-win-core-localization-l1-2-0.dll',
+  ('api-ms-win-core-interlocked-l1-1-0.dll',
    'C:\\Program '
-   'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-core-localization-l1-2-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-string-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-core-string-l1-1-0.dll',
+   'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-core-interlocked-l1-1-0.dll',
    'BINARY'),
   ('api-ms-win-core-file-l1-1-0.dll',
    'C:\\Program '
    'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-core-file-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-core-debug-l1-1-0.dll',
+  ('api-ms-win-core-util-l1-1-0.dll',
    'C:\\Program '
-   'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-core-debug-l1-1-0.dll',
+   'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-core-util-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-datetime-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-core-datetime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-libraryloader-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-core-libraryloader-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-core-synch-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-timezone-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-core-timezone-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-string-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-core-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-2-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-core-file-l1-2-0.dll',
    'BINARY'),
   ('api-ms-win-core-fibers-l1-1-0.dll',
    'C:\\Program '
    'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-core-fibers-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-core-heap-l1-1-0.dll',
+  ('api-ms-win-core-processthreads-l1-1-0.dll',
    'C:\\Program '
-   'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-core-heap-l1-1-0.dll',
+   'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-core-processthreads-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-profile-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-core-profile-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-memory-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-core-memory-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-localization-l1-2-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-core-localization-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-errorhandling-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-core-errorhandling-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-debug-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-core-debug-l1-1-0.dll',
    'BINARY'),
   ('api-ms-win-core-console-l1-1-0.dll',
    'C:\\Program '
    'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-core-console-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-core-processthreads-l1-1-1.dll',
+  ('api-ms-win-core-heap-l1-1-0.dll',
    'C:\\Program '
-   'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-core-processthreads-l1-1-1.dll',
+   'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-core-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processenvironment-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-core-processenvironment-l1-1-0.dll',
    'BINARY'),
   ('api-ms-win-core-file-l2-1-0.dll',
    'C:\\Program '
    'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-core-file-l2-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-interlocked-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-core-interlocked-l1-1-0.dll',
    'BINARY'),
   ('api-ms-win-core-namedpipe-l1-1-0.dll',
    'C:\\Program '
@@ -805,53 +961,17 @@
    'C:\\Program '
    'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-core-sysinfo-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-core-timezone-l1-1-0.dll',
+  ('api-ms-win-core-processthreads-l1-1-1.dll',
    'C:\\Program '
-   'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-core-timezone-l1-1-0.dll',
+   'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-core-processthreads-l1-1-1.dll',
    'BINARY'),
   ('api-ms-win-core-rtlsupport-l1-1-0.dll',
    'C:\\Program '
    'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-core-rtlsupport-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-core-processenvironment-l1-1-0.dll',
+  ('api-ms-win-core-handle-l1-1-0.dll',
    'C:\\Program '
-   'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-core-processenvironment-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-file-l1-2-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-core-file-l1-2-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-datetime-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-core-datetime-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-synch-l1-2-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-core-synch-l1-2-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-profile-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-core-profile-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-errorhandling-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-core-errorhandling-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-libraryloader-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-core-libraryloader-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-memory-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-core-memory-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-processthreads-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-core-processthreads-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-util-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-core-util-l1-1-0.dll',
+   'Files\\Microsoft\\jdk-25.0.4.101-hotspot\\bin\\api-ms-win-core-handle-l1-1-0.dll',
    'BINARY')],
  [],
  [],
@@ -867,97 +987,405 @@
    'C:\\Users\\Srijeel '
    'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\cblang.py',
    'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_ar.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_ar.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_gl.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_gl.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_ca.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_ca.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_fr.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_fr.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_bg.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_bg.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_en.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_en.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_nn.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_nn.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_de.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_de.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_ka.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_ka.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_hr.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_hr.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_fr.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_fr.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_sv.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_sv.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_zh_CN.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_zh_CN.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_ka.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_ka.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_ko.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_ko.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_pl.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_pl.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_fi.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_fi.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_hu.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_hu.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_nl.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_nl.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_zh_TW.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_zh_TW.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_es.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_es.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_en.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_en.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_nl.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_nl.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_ar.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_ar.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_lg.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_lg.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_bg.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_bg.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_pt_BR.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_pt_BR.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_uk.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_uk.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_fr.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_fr.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_nn.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_nn.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_nl.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_nl.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_ko.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_ko.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_en.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_en.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_gd.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_gd.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_tr.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_tr.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_da.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_da.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_pt_PT.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_pt_PT.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_da.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_da.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_sl.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_sl.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_ca.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_ca.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_es.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_es.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_ru.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_ru.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_de.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_de.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_ru.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_ru.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_lg.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_lg.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_it.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_it.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_sv.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_sv.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_ja.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_ja.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_hu.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_hu.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_lt.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_lt.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_cs.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_cs.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_sk.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_sk.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_hr.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_hr.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_ka.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_ka.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_zh_TW.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_zh_TW.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_fa.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_fa.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_de.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_de.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_hr.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_hr.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_lv.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_lv.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_he.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_he.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_zh_CN.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_zh_CN.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_ja.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_ja.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_cs.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_cs.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_tr.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_tr.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_it.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_it.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_ko.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_ko.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_gl.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_gl.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_he.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_he.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_nn.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_nn.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_sk.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_sk.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_gd.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_gd.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_it.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_it.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_bg.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_bg.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_uk.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_uk.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_ca.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_ca.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_zh_CN.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_zh_CN.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_cs.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_cs.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_pl.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_pl.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_fa.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_fa.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_ar.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_ar.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_pt_BR.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_pt_BR.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_pt_BR.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_pt_BR.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_uk.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_uk.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_lv.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_lv.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_da.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_da.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_pl.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_pl.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_sv.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_sv.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_sk.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_sk.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_ru.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_ru.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_ja.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_ja.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_tr.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_tr.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_es.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_es.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_hu.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_hu.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_sl.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_sl.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_fi.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_fi.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_zh_TW.qm',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\.venv\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_zh_TW.qm',
+   'DATA'),
   ('base_library.zip',
    'C:\\Users\\Srijeel '
    'Mohapatra\\PycharmProjects\\CFlat-Cb-coding-language\\build\\installer\\base_library.zip',
    'DATA')],
- [('posixpath',
+ [('collections',
    'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\posixpath.py',
-   'PYMODULE'),
-  ('linecache',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\linecache.py',
-   'PYMODULE'),
-  ('types',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\types.py',
-   'PYMODULE'),
-  ('ntpath',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\ntpath.py',
-   'PYMODULE'),
-  ('functools',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\functools.py',
-   'PYMODULE'),
-  ('_weakrefset',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\_weakrefset.py',
-   'PYMODULE'),
-  ('operator',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\operator.py',
-   'PYMODULE'),
-  ('heapq',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\heapq.py',
-   'PYMODULE'),
-  ('locale',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\locale.py',
-   'PYMODULE'),
-  ('sre_constants',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\sre_constants.py',
-   'PYMODULE'),
-  ('sre_parse',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\sre_parse.py',
-   'PYMODULE'),
-  ('enum',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\enum.py',
-   'PYMODULE'),
-  ('weakref',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\weakref.py',
-   'PYMODULE'),
-  ('stat',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\stat.py',
-   'PYMODULE'),
-  ('keyword',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\keyword.py',
-   'PYMODULE'),
-  ('traceback',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\traceback.py',
-   'PYMODULE'),
-  ('re._parser',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\re\\_parser.py',
-   'PYMODULE'),
-  ('re._constants',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\re\\_constants.py',
-   'PYMODULE'),
-  ('re._compiler',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\re\\_compiler.py',
-   'PYMODULE'),
-  ('re._casefix',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\re\\_casefix.py',
-   'PYMODULE'),
-  ('re',
-   'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\re\\__init__.py',
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\collections\\__init__.py',
    'PYMODULE'),
   ('sre_compile',
    'C:\\Users\\Srijeel '
    'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\sre_compile.py',
+   'PYMODULE'),
+  ('weakref',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\weakref.py',
    'PYMODULE'),
   ('encodings.zlib_codec',
    'C:\\Users\\Srijeel '
@@ -1451,41 +1879,117 @@
    'C:\\Users\\Srijeel '
    'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\encodings\\__init__.py',
    'PYMODULE'),
-  ('collections',
+  ('genericpath',
    'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\collections\\__init__.py',
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\genericpath.py',
    'PYMODULE'),
-  ('reprlib',
+  ('operator',
    'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\reprlib.py',
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\operator.py',
    'PYMODULE'),
   ('warnings',
    'C:\\Users\\Srijeel '
    'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\warnings.py',
    'PYMODULE'),
-  ('abc',
+  ('functools',
    'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\abc.py',
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\functools.py',
    'PYMODULE'),
-  ('copyreg',
+  ('posixpath',
    'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\copyreg.py',
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\posixpath.py',
    'PYMODULE'),
-  ('_collections_abc',
+  ('keyword',
    'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\_collections_abc.py',
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\keyword.py',
    'PYMODULE'),
-  ('io',
+  ('enum',
    'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\io.py',
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\enum.py',
+   'PYMODULE'),
+  ('sre_parse',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\sre_parse.py',
    'PYMODULE'),
   ('codecs',
    'C:\\Users\\Srijeel '
    'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\codecs.py',
    'PYMODULE'),
-  ('genericpath',
+  ('copyreg',
    'C:\\Users\\Srijeel '
-   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\genericpath.py',
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\copyreg.py',
+   'PYMODULE'),
+  ('re._parser',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\re\\_parser.py',
+   'PYMODULE'),
+  ('re._constants',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\re\\_constants.py',
+   'PYMODULE'),
+  ('re._compiler',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\re\\_compiler.py',
+   'PYMODULE'),
+  ('re._casefix',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\re\\_casefix.py',
+   'PYMODULE'),
+  ('re',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\re\\__init__.py',
+   'PYMODULE'),
+  ('locale',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\locale.py',
+   'PYMODULE'),
+  ('traceback',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\traceback.py',
+   'PYMODULE'),
+  ('_collections_abc',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\_collections_abc.py',
+   'PYMODULE'),
+  ('abc',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\abc.py',
+   'PYMODULE'),
+  ('types',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\types.py',
+   'PYMODULE'),
+  ('ntpath',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\ntpath.py',
+   'PYMODULE'),
+  ('stat',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\stat.py',
+   'PYMODULE'),
+  ('reprlib',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\reprlib.py',
+   'PYMODULE'),
+  ('_weakrefset',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\_weakrefset.py',
+   'PYMODULE'),
+  ('heapq',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\heapq.py',
+   'PYMODULE'),
+  ('linecache',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\linecache.py',
+   'PYMODULE'),
+  ('io',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\io.py',
+   'PYMODULE'),
+  ('sre_constants',
+   'C:\\Users\\Srijeel '
+   'Mohapatra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\sre_constants.py',
    'PYMODULE'),
   ('os',
    'C:\\Users\\Srijeel '

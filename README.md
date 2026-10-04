@@ -1,99 +1,118 @@
 # CFlat-Cb-coding-language
 
-The Cb programming language (pronounced "C-Flat") is a joke language intending to mix Python and C# syntax to make a simple musical-themed programming language[cite: 2].
+The Cb programming language (pronounced "C-Flat") is a programming language mixing Python, C#, and C syntax with a musical theme.
 
 ---
 
-## Features
+## Features & Capabilities
 
 * **Musical Keywords**: Write code using musical notation terms mapped directly to underlying C primitives via a robust regex transpiler.
-* **Hybrid Python Bridge**: Embed stateful Python scripts directly inside your Cb files (`.startcb()`) with automatic virtual environment and dependency harmonization.
-* **.NET C# SDK Interop**: Seamlessly invoke modern .NET Core namespaces and classes (like `System.DateTime`) directly inside your workflow via `pythonnet` and CoreCLR.
-* **Native Compilation**: Compiles down to high-performance native binaries using GCC.
-* **Professional Graphical Installer**: Includes a custom Tkinter-based setup utility that handles installation, environment PATH configuration, `.cb` file type associations with custom branding, and an integrated uninstaller.
+* **Hybrid Concurrency (`concb`)**: Run multi-threaded Python and C# tasks concurrently with `wait` or `move` execution modes.
+* **Python & .NET Bridge (`startcb`, `invoke`)**: Embed stateful Python or C# code blocks and link modern .NET SDK namespaces via `pythonnet`.
+* **Native Compilation**: Compiles down to high-performance native binaries using GCC (`cbc app.cb`).
+* **Professional PyQt6 Wizard Installer**: Features a modern multi-step graphical setup utility complete with prerequisite verifications, single-instance enforcement, remote fallbacks, and a Tkinter-based uninstaller.
 
 ---
 
-## Quick Syntax Reference
+## Comprehensive Syntax & Keyword Reference
 
-| Cb Keyword | Underlying Mapping / Action | Description |
+| Cb Keyword / Construct | Underlying Mapping / Action | Description |
 | :--- | :--- | :--- |
-| `bnt` | `int` | Standard integer data type |
+| `bnt` | `int` | Standard integer data type declaration |
 | `pianissimo` | `printf` | Formatted output / printing to console |
+| `ascolta(<var>)` | `cb_read_int(&<var>)` | Reads a validated integer from standard input |
 | `da_capo` | `while` | Loop control block |
 | `staccato` | `break` | Loop exit keyword |
-| `verissimo` | `1` | Boolean true |
-| `falsissimo` | `0` | Boolean false |
-| `call <module>` | Dynamic Import | Links and auto-installs Python packages (e.g., `tkinter`) |
+| `verissimo` | `1` | Boolean true representation |
+| `falsissimo` | `0` | Boolean false representation |
+| `if_forte` | `if` | Conditional branch keyword |
+| `elif_mforte` | `else if` | Alternative conditional branch keyword |
+| `else_piano` | `else` | Fallback conditional branch keyword |
+| `coda <val>` | `return <val>;` | Function return statement |
+| `solo <name>(<params>)` | Function Header | Function declaration formatter |
+| `fermata <var> in range(<n>)` | `for` loop | Standard iteration loop count block |
+| `ensemble <name> = [...]` | Array Declaration | Native integer array initialization |
+| `crescendo <var>` | `<var>++` | Increment variable value by 1 |
+| `decrescendo <var>` | `<var>--` | Decrement variable value by 1 |
+| `allegro { ... }` | `int main(void)` | Main program entry point initialization block |
+| `lento { ... }` | Error Handler Block | Executed if main execution or a python block fails |
+| `ritardando { ... }` | Protected Try Block | Try-catch block scope wrapper |
+| `tempo_lost { ... }` | Try Error Handler | Executed if the protected try-block fails |
+| `call <module>` | Dynamic Import | Links and auto-installs Python packages via pip |
 | `invoke <SDK>` | .NET Binding | Links C# SDK namespaces via `pythonnet` |
+| `startcb(py \| cs)` | Stateful Block | Embeds multi-line Python or C# code blocks into Cb |
+| `concb(wait \| move)` | Multi-threaded Group | Runs multiple embedded Python/C# blocks concurrently |
+
+---
 
 ## Getting Started & Usage
 
 ### 1. Installation
-Run the official graphical `installer.exe` to set up the Cb engine on your system, add `cbc` to your user PATH, and register `.cb` file associations.
+Run the official graphical `installer.exe` to launch the PyQt6 setup wizard. It validates prerequisites, installs core runtime assets to `C:\CbLang`, configures your user PATH, registers `.cb` file associations, and creates a desktop uninstaller shortcut.
 
 ### 2. Writing a Sample Program (`app.cb`)
 ```c
 call tkinter
 invoke System
 
-bnt main() [
+allegro {
     pianissimo("Initializing Cb Hybrid Environment...\n");
+
+    bnt count = 0;
+    fermata i in range(3) {
+        crescendo count;
+    }
+
+    pianissimo(count);
 
     tkinter.startcb() [
         import tkinter as tk
-        from System import DateTime
-        
-        def show_time():
-            now = DateTime.Now
-            time_lbl.config(text=f".NET Time: {now.ToString('HH:mm:ss')}")
-
         root = tk.Tk()
-        root.title("Cb Language + Tkinter + .NET")
-        root.geometry("350x200")
-        
-        time_lbl = tk.Label(root, text="Click to fetch live .NET time", font=("Arial", 10))
-        time_lbl.pack(pady=20)
-        
-        btn = tk.Button(root, text="Get Time", command=show_time, bg="green", fg="white")
-        btn.pack(pady=5)
-        
-        exit_btn = tk.Button(root, text="Quit", command=root.destroy, bg="red", fg="white")
-        exit_btn.pack(pady=5)
-        
+        root.title("Cb Hybrid Window")
+        root.geometry("250x150")
         root.mainloop()
     ]
 
-    pianissimo("Execution finished. Returning to Cb.\n");
     return falsissimo;
-]
+}
+lento {
+    pianissimo("Execution failed. Entering lento error handler.\n");
+}
 ```
+
 ### 3. Compiling and Executing via CLI
 
 Open your terminal and compile your file using the global compiler command:
 
-```c
+```bash
 cbc app.cb
 ```
 
 Then, execute your freshly built binary:
 
-```c
+```bash
 .\app.exe
 ```
 
-#### Project Architecture
+---
 
-    cbc.py: The command-line entry point and CLI coordinator.
+## Project Architecture
 
-    cblang.py: The core compilation engine handling dependency resolution, syntax transpilation, header injection, and GCC invocation.
+* **`cbc.py`**: The command-line entry point and CLI coordinator.
+* **`cblang.py`**: The core compilation engine handling dependency resolution, syntax transpilation, header injection, and GCC invocation.
+* **`installer.py`**: The PyQt6 multi-step wizard utility responsible for graphical deployment, single-instance enforcement, registry icon mapping, path modifications, and remote fallback downloads.
+* **`uninstall_cb.py`**: The generated Tkinter-powered cleanup script deployed locally to handle safe removal of registry configurations, path entries, and application directories.
 
-    installer.py: The graphical setup utility responsible for deployment, registry modifications, icon association, and uninstaller generation.
+---
 
-##### Prerequisites for Cb
+## Prerequisites for Cb
 
-To work with, compile, or develop programs in Cb, your system needs a few core tools and dependencies installed.Here are the prerequisites broken down by category:
+To work with, compile, or develop programs in Cb, your system requires the following tools and dependencies:
 
-1. Core EnvironmentPython (3.x): Required to run the compiler engine (cbc.py / cblang.py), the installation scripts, and the embedded runtime blocks.GCC Compiler (MinGW on Windows): Required to turn the transpiled C code into a native executable binary (.exe).
+1. **Core Environment**
+   * **Python (3.x)**: Required to run the compiler engine (`cbc.py` / `cblang.py`), the PyQt6 installation wizard, and embedded runtime blocks.
+   * **GCC Compiler (MinGW on Windows)**: Required to turn the transpiled C code into a native executable binary (`.exe`).
 
-2. For C# and .NET Interop (invoke feature).NET SDK (.NET Core): Required if your Cb scripts call upon modern .NET namespaces and classes.   pythonnet package: The underlying Python bridge library used to hook into the CoreCLR runtime (which the Cb compiler checks and installs automatically).
+2. **For C# and .NET Interop (`invoke` feature)**
+   * **.NET SDK (.NET Core)**: Required if your Cb scripts call upon modern .NET namespaces and classes.
+   * **`pythonnet` package**: The underlying Python bridge library used to hook into the CoreCLR runtime (which the installer verifies and downloads automatically).
